@@ -11,4 +11,13 @@ Contents:
   - `pokemon.csv`:          data used;
   - `read_me_pok.txt`:      meta data, explaining the data.
 
-![Logo](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.png){.8}
+![Logo](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.png)[.8]
+
+
+![Exemplo1](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.pnghttps://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/f4.png)
+
+![Exemplo2](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.pnghttps://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/f3.png)
+
+![Exemplo3](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.pnghttps://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/f2.png)
+
+![Exemplo4](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.pnghttps://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/f1.png)
