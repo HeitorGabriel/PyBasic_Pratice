@@ -10,3 +10,5 @@ Contents:
   - `Pandas_Seaborn.ipynb`: jupyter with execution;
   - `pokemon.csv`:          data used;
   - `read_me_pok.txt`:      meta data, explaining the data.
+
+![Logo](https://github.com/HeitorGabriel/PyBasic_Pratice/blob/main/logowork.png){.8}
